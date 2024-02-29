@@ -35,8 +35,8 @@ header .profile {
 }
 
 header .profile img {
-  width: 230px;
-  height: 230px;
+  width: 180px;
+  height: 180px;
   border-radius: 50%;
   border: 10px solid var(--iconBGColor);
 }
@@ -80,11 +80,11 @@ header nav ul li a {
   color: lightgray;
   font-weight: 400;
   font-size: 15px;
-  letter-spacing: 1px;
+  letter-spacing: 0.6px;
 }
 
 header nav ul li a i {
-  margin-right: 10 px;
+  margin-right: 10px;
   font-size: 20px;
   transition: 0.4s;
 }
